@@ -1,3 +1,6 @@
+//© Pieter Huisman 99047256
+//Applicatie en media ontwikkelaar
+
 var a = 1;
 var b = prompt("Vul hier het eerste getal in waarvan u de tafel wilt weten");
 var c = prompt("Vul hier het tweede getal in waarvan u de tafel wilt weten");
